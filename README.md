@@ -16,7 +16,7 @@ Foi utilizado o ambiente do Google AI Studio para a codificação e o COLAB para
 
 Basta reproduzir passo a passo para cria-lo novamente, ou modifica-lo.
 
-[CMD] preciso de ajuda em um projeto pyton
+[CMD] preciso de ajuda em um projeto python
 [CMD] response = model.generate_content("Liste 5 cidades do mundo que possuem aeroportos internacionais, apenas os nomes listados separados por virgula")
 [CMD] gere o codigo para pegar a resposta desta chamada e guardar em uma variavel indexada
 [CMD] adicione no codigo uma chamada "response = model.generate_content("Liste o nome de um museu, um time de futebol e um lugar turistico apenas com os nomes separados por virgula") para cada cidade que foi recebida anteriormente e armazene em uma nova variavel indexada
